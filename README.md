@@ -2,6 +2,10 @@
 
 监控 B站指定 UP 主的新评论和回复，第一时间捕捉实盘、新标的入场等关键信息。
 
+## 快速下载
+
+👉 **直接下载可执行文件（免安装）**：[Releases 页面](https://github.com/Kurisu896/bili-up-comment-monitor/releases)，下载 `bili-up-comment-monitor.exe` 双击即可运行，无需 Python 环境。
+
 ## 项目初衷
 
 本来是写出来抓b站炒股up的消息的，应该还有点别的用，大伙拿去随便用吧
